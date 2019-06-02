@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hospital</string>
+
+    <string-array name="division_select">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+    </string-array>
+
+</resources>
